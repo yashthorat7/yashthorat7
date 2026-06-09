@@ -4,7 +4,7 @@
 
 <div align="center">
   <nobr>
-    <a href="https://yashthorat.vercel.app"><img src="assets/contacts/contact1.svg?v=3" width="5.92%" /></a><!--
+    <a href="https://yashthorat7.github.io/resume-template"><img src="assets/contacts/contact1.svg?v=3" width="5.92%" /></a><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
 --><a href="mailto:yshthrt@gmail.com"><img src="assets/contacts/contact2.svg?v=3" width="4.86%" /></a><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
