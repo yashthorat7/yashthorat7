@@ -159,5 +159,5 @@
 </div>
 
 <div align="center">
-  <img src="assets/footer.svg?v=1" width="100%" />
+  <img src="assets/footer.svg?v=2" width="100%" />
 </div>
